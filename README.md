@@ -5,7 +5,7 @@
 
 ## ⚡ About Me
 
-- 🎓 Pre-final year **ECE Student** passionate about **Software Development**
+- 🎓 Final year **ECE Student** passionate about **Software Development**
 - 💻 Currently learning **Java**
 - 🌐 Exploring **IoT & Embedded Systems** for real-world problem solving
 - 📧 Email: **srisanth.g2006@gmail.com**
