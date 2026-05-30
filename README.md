@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=900&size=38&pause=1200&color=00F5FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Srisanth+G;E.C.E+Undergraduate;Full+Stack+Developer;IoT+%26+Embedded+Systems+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=36&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Srisanth+G;E.C.E+Undergraduate;Full+Stack+Developer;IoT+%26+Embedded+Systems+Enthusiast" alt="Typing SVG" />
 </p>
 
 ## ⚡ About Me
